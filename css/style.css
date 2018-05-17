@@ -1,0 +1,38 @@
+
+
+/* h1{
+    background-color: green;
+}  */
+
+header{
+    background-image: url(../img/home.jpg);
+    height: 1000px;
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: cover;
+}
+
+.logo{
+    color:#FFF;
+    font-size: 33px; 
+    padding-top: 3px;
+} 
+
+span{
+    color: #28bbea;
+
+} 
+
+.text-ct{
+    height: 950px;
+} 
+
+
+
+.bloc{
+    height: 400px;
+} 
+
+.magic{
+    font-size: 40px;
+} 
